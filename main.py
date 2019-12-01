@@ -1,4 +1,4 @@
-from main import part_a
+from gui import Gui
 
-my_part_a = main()
-my_part_a.mainloop()
+my_gui = Gui()
+my_gui.mainloop()
